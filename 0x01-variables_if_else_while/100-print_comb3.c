@@ -21,7 +21,7 @@ int main(void)
 				putchar('0' + c);
 				if (c + d != 17)
 				{
-					putchar(',');
+					putchar(' ');
 					putchar(' ');
 				}
 			}
